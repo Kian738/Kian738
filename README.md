@@ -11,4 +11,4 @@ I am bad at cpp
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=Kian738&theme=dark&show_icons=true)
 <br />
-<!-- ![ghstats](https://github-readme-stats.vercel.app/api?username=Kian738&show_icons=true&theme=dark&locale=e) -->
+![ghstats](https://github-readme-stats.vercel.app/api?username=Kian738&show_icons=true&theme=dark&locale=e)
