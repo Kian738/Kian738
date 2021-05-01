@@ -8,8 +8,7 @@
 I am bad at cpp
 <br />
 <br />
-<p>Can I get banned for releasing illegal repos / apps?</p>
-<br />
+<p>Can I get banned for releasing illegal repos / projects?</p>
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=Kian738&theme=dark&show_icons=true)
 <br />
