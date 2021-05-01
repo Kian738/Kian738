@@ -10,7 +10,6 @@ I am bad at cpp
 <br />
 <p>Can I get banned for releasing illegal repos / apps?</p>
 <br />
-<br />
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=Kian738&theme=dark&show_icons=true)
 <br />
