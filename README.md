@@ -1,7 +1,7 @@
 <!--
 **Kina738/Kina738** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi I am Kian and 14 years old
+Hi I my name is Kian and I am a 15 year old software engineer!
 
 ### Discord
 <img src="https://discord.c99.nl/widget/theme-4/700841837736362004.png"/>
