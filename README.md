@@ -6,7 +6,9 @@ Hello, World! 🌍 I'm Kian, a 15-year old software engineer passionate about ab
 - 🌱 I’m currently learning and growing every day. 
 - 💬 Feel free to ask me about anything related to programming and tech.
 - 📫 You can reach me at my socials: 
-	-  <a href="https://www.linkedin.com/in/kianmehr-karimi-6b056419a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+	- <a href="mailto:karimikianmehr100@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	- <a href="https://twitter.com/Rythm0562"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+	- <a href="https://www.linkedin.com/in/kianmehr-karimi-6b056419a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 	- <a href="https://discord.com/users/700841837736362004"><img src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 - ⚡ Fun fact: My first coding project was a X-Plane 11 plugin I made when I was 11 years old.
 
@@ -27,7 +29,9 @@ Hello, World! 🌍 I'm Kian, a 15-year old software engineer passionate about ab
 <p align="center"> 
   <img alt="ASP.NET" src="https://img.shields.io/badge/asp.net-%23512BD4.svg?&style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="Next.Js" src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="Three.js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -41,10 +45,10 @@ Hello, World! 🌍 I'm Kian, a 15-year old software engineer passionate about ab
 <table>
   <tr>
     <td>
-     <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Kian738&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Kian738&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
     </td>
     <td> 
-       <img alt="Streaks" src="http://github-readme-streak-stats.herokuapp.com?user=Kian738&hide_border=true&theme=tokyonight" />
+      <img alt="Streaks" src="http://github-readme-streak-stats.herokuapp.com?user=Kian738&hide_border=true&theme=tokyonight" />
     </td>
   </tr>
 </table>
