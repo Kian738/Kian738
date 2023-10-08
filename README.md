@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I am Kian</h1>
 <h3 align="center">A passionate FullStack Developer from Germany</h3>
 
+<br />
+
 ### About Me
 Hello, World! 🌍 I'm Kian, a 15-year old software engineer passionate about about expanding my skills in the world of programming, tech and more!
 
