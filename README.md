@@ -30,6 +30,8 @@ Hello, World! 🌍 I'm Kian, a 15-year old software engineer passionate about ab
 
 ### Tools
 <p align="center"> 
+  <img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img alt="ASP.NET" src="https://img.shields.io/badge/asp.net-%23512BD4.svg?&style=for-the-badge&logo=.net&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -55,3 +57,5 @@ Hello, World! 🌍 I'm Kian, a 15-year old software engineer passionate about ab
     </td>
   </tr>
 </table>
+
+<img alt="Profile view count" src="https://komarev.com/ghpvc/?username=kian738" />
