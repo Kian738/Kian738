@@ -16,7 +16,8 @@ Hello, World! 🌍 I'm Kian, a 16-year old self-taught software engineer passion
 - ⚡ Fun fact: My first coding project was a X-Plane 11 plugin I made when I was 11 years old.
 
 ### Languages
-<p align="center"> 
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
