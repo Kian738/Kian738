@@ -4,7 +4,7 @@
 <br />
 
 ### About Me
-Hello, World! 🌍 I'm Kian, a 16-year old self-taught software engineer passionate about expanding my skills in the world of programming, tech and more!
+Hello, World! 🌍 I'm Kian, a 17-year old self-taught software engineer passionate about expanding my skills in the world of programming, tech and more!
 
 - 🌱 I’m currently learning and growing every day. 
 - 💬 Feel free to ask me about anything related to programming and tech.
