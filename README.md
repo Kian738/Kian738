@@ -10,7 +10,6 @@ Hello, World! 🌍 I'm Kian, a 17-year old software engineer passionate about ex
 - 💬 Feel free to ask me about anything related to programming and tech.
 - 📫 You can reach me at my socials: 
 	- <a href="mailto:karimikianmehr100@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-	- <a href="https://twitter.com/Rythm0562"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
 	- <a href="https://www.linkedin.com/in/kianmehr-karimi-6b056419a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 	- <a href="https://discord.com/users/700841837736362004"><img src="https://img.shields.io/badge/discord-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 - ⚡ Fun fact: My first coding project was a X-Plane 11 plugin I made when I was 11 years old.
