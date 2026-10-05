@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I am Kian</h1>
-<h3 align="center">A passionate FullStack Developer from Germany</h3>
+<h3 align="center">A passionate Full-Stack Developer from Germany</h3>
 
 <br />
 
 ### About Me
-Hello, World! 🌍 I’m Kian, 17 years old and a passionate software engineer who’s been coding since I was 11. My journey started early, and today I work across a diverse tech stack with a strong focus on low-level systems and modern backend development.
+Hello, World! 🌍 I’m Kian, 18 years old and a passionate software engineer who’s been coding since I was 11. My journey started early, and today I work across a diverse tech stack with a strong focus on low-level systems and modern backend development.
 
 #### What I do:
 
@@ -54,12 +54,12 @@ Hello, World! 🌍 I’m Kian, 17 years old and a passionate software engineer w
   </a>
 </p>
 
-<p>⚡ Fun fact: My first coding project was an X-Plane 11 plugin I developed at age 11 — and I’ve been hooked ever since!</p>
+<p>⚡ Fun fact: My first coding project was an X-Plane 11 plugin I developed at age 11 – and I’ve been hooked ever since!</p>
 
 ---
 
 ### 🕒 My WakaTime Stats
-> ⌛ WakaTime tracks real coding hours from my code editors — not just GitHub commits.
+> ⌛ WakaTime tracks real coding hours from my code editors – not just GitHub commits.
 
 <p align="center">
   <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kian738&layout=compact&theme=tokyonight&hide_border=true" />
