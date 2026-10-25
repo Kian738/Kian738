@@ -22,7 +22,7 @@ KittnusOS UEFI Loader
 <summary><b>🥈 RFQ Forge</b> · browser agent from request-for-quotation to verified bid · <i>2nd place, EHL Grand Finale</i></summary>
 <br>
 
-Built with [@TizianGth](https://github.com/TizianGth) and [@Matin22](https://github.com/Matin22) for the Atira challenge. **#1 on the private test leaderboard**, 2nd place overall.
+Built with [@TizianGth](https://github.com/TizianGth), [@varialbe](http://github.com/varialbe), and [@Matin22](https://github.com/Matin22) for the Atira challenge. **#1 on the private test leaderboard**, 2nd place overall.
 Playwright + model-guided page exploration that survives changing layouts, renamed labels and anti-bot popups, plus document extraction, deterministic pricing rules and submission-time verification.
 </details>
 
