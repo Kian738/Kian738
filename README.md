@@ -1,50 +1,39 @@
-<h1 align="center">Hi 👋, I'm Kian</h1>
-<h3 align="center">Software engineer and full-stack developer from Germany</h3>
+<h1>Kianmehr Karimi</h1>
 
-<p align="center">
-  Building across backend systems, automation, embedded projects, reverse engineering, and developer tools.
-</p>
-
-### About me
-
-I'm Kian, a 19-year-old software engineer who has been coding since I was 11. I started with an X-Plane 11 plugin and have since moved across a broad range of systems—from low-level experimentation and emulator development to scalable web backends, firmware, and Python automation.
-
-I enjoy projects where software has to be both technically interesting and dependable in the real world: clear architecture, defensive edge-case handling, useful tooling, and systems that can explain what they did.
-
-### What I work on
-
-- **Backend & web:** TypeScript, NestJS, Next.js, GraphQL, PostgreSQL, Prisma
-- **Systems & tooling:** C++, C#, Java, emulator and utility development
-- **Automation & AI:** Python, browser automation, document extraction, evidence-backed workflows
-- **Embedded:** ESP32, Arduino, firmware and hardware/software interfaces
-- **Exploration:** reverse engineering, game tooling, Unity and Unreal Engine workflows
-
-### Featured project
-
-#### [RFQ Forge](https://github.com/Kian738/rfq-forge)
-
-An evidence-backed browser agent for turning complex requests for quotation into verified bids. It combines Playwright browser control, Qwen-based extraction, deterministic pricing rules, document/mail handling, review-page validation, and TAN-based submission safeguards. The project was developed with [Matin22](https://github.com/Matin22) and reached a quality-100 Atira challenge validation.
-
-### Contact
+<p><strong>Electrical Engineering & Information Technology student at TUM</strong><br>
+Software engineer focused on backend systems, automation, AI agents, and low-level projects.</p>
 
 <p>
-  <a href="mailto:karimikianmehr100@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/kianmehr-karimi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://discord.com/users/700841837736362004"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="mailto:karimikianmehr100@gmail.com">Email</a> ·
+<a href="https://www.linkedin.com/in/kianmehr-karimi">LinkedIn</a> ·
+<a href="https://github.com/Kian738">GitHub</a>
 </p>
 
-### Tech stack
+## Selected work
 
-<p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-009688?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
+### RFQ Forge
+An evidence-backed browser agent that automates the path from request for quotation to verified bid submission. Built with TizianGth and Matin22 for the Atira EHL challenge; the team reached **2nd place at the EHL Grand Finale**, with the solution ranking **#1 on the private test leaderboard**. The system combines Playwright, model-guided browser exploration, document extraction, deterministic pricing rules, and submission-time verification.
 
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Kian738&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-</p>
+### GOApuccino
+Board member and project lead for a student café. Co-leading a 20+ person team while building an Arduino-based point-of-sale system, its web interface, and a management portal.
+
+### Novo
+A commissioned school staff portal with timetables, cancellations, announcements, and absence notices, designed for an interactive smartboard.
+
+### KittnusOS
+An x86-64 UEFI and early operating-system project with a C++ bootloader and low-level systems infrastructure.
+
+## Focus areas
+
+- Backend and web engineering: TypeScript, NestJS, Next.js, GraphQL, PostgreSQL, Prisma
+- AI and automation: Python, browser agents, document extraction, reliable workflows
+- Systems programming: C++, operating systems, emulators, developer tooling
+- Embedded systems: Arduino, ESP32, firmware and hardware/software interfaces
+
+## Background
+
+I have been building software since I was 11. I care about the boundary between ambitious ideas and dependable systems: explicit architecture, measurable behavior, defensive edge-case handling, and tools that are useful outside a demo.
+
+Currently studying **Electrical Engineering and Information Technology at the Technical University of Munich**.
+
+<p><sub>German · English · Persian · French</sub></p>
